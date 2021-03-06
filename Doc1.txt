@@ -3,3 +3,5 @@ This is a git practice file
 Not in staging area
 
 Edited from git
+
+Edited in a new branch
